@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Codecademy Project
+This project is an exercise from Codecademy to practice with React Router. 
+
+## Launch date
+This project was launched on March 27th, 2022.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
